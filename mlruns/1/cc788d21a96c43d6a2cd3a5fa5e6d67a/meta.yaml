@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/cc788d21a96c43d6a2cd3a5fa5e6d67a/artifacts
+end_time: 1651734113423
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: cc788d21a96c43d6a2cd3a5fa5e6d67a
+run_uuid: cc788d21a96c43d6a2cd3a5fa5e6d67a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1651734039586
+status: 3
+tags: []
+user_id: parimalap01

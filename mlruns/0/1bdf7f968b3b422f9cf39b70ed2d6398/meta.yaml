@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/parimala.palle/Desktop/module_3/mlruns/0/1bdf7f968b3b422f9cf39b70ed2d6398/artifacts
+end_time: 1651683782502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1bdf7f968b3b422f9cf39b70ed2d6398
+run_uuid: 1bdf7f968b3b422f9cf39b70ed2d6398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1651683779695
+status: 3
+tags: []
+user_id: parimalap01
